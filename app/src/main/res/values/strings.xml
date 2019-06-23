@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="design">主页面</string>
+    <string name="author">此页面为作者照片及相关信息</string>
+    <string name="tel">手机:17381573110</string>
+    <string name="email">邮箱: 195714468@qq.com</string>
+    <string name="adress">地址：西南财经大学柳林校区</string>
+    <string name="design_c">设置页面参数</string>
+
+    <string name="design_check">查看原始编辑界面</string>
+    <string name="suggestion2_height">输入框高度</string>
+    <string name="suggestion2_width">输入框宽度</string>
+    <string name="suggestion2_content">输入框内容</string>
+    <string name="suggestion1_height">文本框高度</string>
+    <string name="suggestion1_width">文本框宽度</string>
+    <string name="suggestion3_width">按钮宽度</string>
+    <string name="suggestion3_height">按钮高度</string>
+    <string name="suggestion3_content">按钮文本内容</string>
+    <string name="suggestion1_content">文本框内容</string>
+    <string name="none">无</string>
+    <string name="c">0</string>
+    <string name="btn">保存并查看新的页面</string>
+    <string name="total_title">设置页面控件参数</string>
+    <string name="total_title_button">按钮参数</string>
+    <string name="total_title_textview">文本框参数</string>
+    <string name="total_title_edittext">输入框参数</string>
+    <string name="new_title">一个新的页面</string>
+    <string name="black">背景色：黑</string>
+    <string name="menu_set">设置颜色</string>
+    <string name="gray">背景色：灰</string>
+    <string name="yellow">背景色：黄</string>
+    <string name="green">背景色：绿</string>
+    <string name="white">背景色：白</string>
+    <string name="set">设置字体颜色</string>
+    <string name="textred">红色</string>
+    <string name="textblack">黑色</string>
+    <string name="textwhite">白色</string>
+    <string name="textgreen">绿色</string>
+    <string name="BTN">保存所选字体颜色</string>
+    <string name="textcolor_title">设置页面字体颜色(默认为黑色)</string>
+    <string name="information">产品作者：金涛</string>
+
+
+</resources>

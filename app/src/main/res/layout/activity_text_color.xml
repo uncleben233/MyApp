@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/pyxz1"
+    android:orientation="vertical"
+    tools:context=".TextColorActivity">
+    <TextView
+        android:id="@+id/colortext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/textcolor_title"
+        android:textStyle="bold"
+        android:textSize="20sp" />
+    <Button
+        android:id="@+id/textred"
+
+        android:onClick="red"
+        android:layout_marginTop="20dp"
+        android:text="@string/textred"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_width="366dp"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/textblack"
+        android:onClick="black"
+        android:layout_marginTop="30dp"
+        android:text="@string/textblack"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_width="366dp"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/textgreen"
+        android:onClick="green"
+        android:layout_marginTop="30dp"
+        android:text="@string/textgreen"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_width="366dp"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/textwhite"
+        android:onClick="white"
+        android:layout_marginTop="30dp"
+        android:text="@string/textwhite"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_width="366dp"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/back"
+        android:onClick="back"
+        android:layout_marginTop="50dp"
+        android:text="@string/BTN"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_width="366dp"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

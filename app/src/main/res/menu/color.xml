@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_set"
+        android:icon="@mipmap/ic_touch_app"
+        android:title="@string/menu_set"
+
+        app:showAsAction="always|withText" />
+    <item
+        android:id="@+id/black"
+        android:title="@string/black" />
+
+    <item
+        android:title="@string/gray"
+        android:id="@+id/gray" />
+
+    <item
+        android:title="@string/green"
+        android:id="@+id/green"/>
+
+    <item
+        android:title="@string/yellow"
+        android:id="@+id/yellow"/>
+    <item
+        android:title="@string/white"
+        android:id="@+id/white"/>
+</menu>
